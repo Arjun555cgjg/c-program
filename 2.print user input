@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std ;
+int main ()
+{
+int ab;
+cout<<"enter something\n";
+cin>>ab;
+cout<<"here is your input\n"<<ab;
+
+return 0;
+}
